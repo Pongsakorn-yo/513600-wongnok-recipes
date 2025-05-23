@@ -8,6 +8,7 @@
 6iัน php artisan key:generate
 7.รัน php artisan migrate --seed
 8.run php artisan serve
+เริ่มต้นด้วย หน้า login เข้าระบบ, จากนั้นเป็นหน้า interface เพิ่มเมนูอาหารของ สามารถ เพิ่ม/แก้ไข/ลบสูตรอาหาร/ค้นหา, เมื่อกดเข้าไปในสูตรอาหาร สามารถให้คะแนน User อื่นได้
 
 เข้าสู่ระบบ 
 ีuser: admin@admin.com
